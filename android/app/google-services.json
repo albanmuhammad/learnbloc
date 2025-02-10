@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449941346558",
+    "project_id": "blocapplcation",
+    "storage_bucket": "blocapplcation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449941346558:android:dc6a333cc6111208c3adaf",
+        "android_client_info": {
+          "package_name": "com.example.blocapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJzQJdCkN163-0nYaU-Gh0yWOQ3JoMRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
